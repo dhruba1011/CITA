@@ -1,3 +1,14 @@
+*{
+    font-family: 'Lucida Sans';
+    font-size: 14px;
+}
+h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.container{
+    border: 2px solid black;
+}
 p{
     color:blue;
 }
