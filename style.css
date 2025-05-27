@@ -17,14 +17,21 @@ html, body {
 
 /* Header */
 header {
+  position: sticky;
+  top: 0px;
   background-color: #940781;
+  z-index: 100;
   color: #fff;
   padding: 15px 20px;
   text-align: center;
-  position: relative;
+  /* position: relative; */
 }
 
 header h1 {
+  position: sticky;
+  top: 0px;
+  background-color: #940781;
+  z-index: 100;
   margin: 0;
   font-size: 1.8rem;
 }
