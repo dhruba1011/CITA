@@ -257,10 +257,11 @@ footer {
 }
 
 table{
+  width: 90%;
   border-collapse: collapse;
   padding: 10px;
   font-size: 12px;
-  background-color: aquamarine;
+  background-color: rgb(231, 248, 242);
 }
 th,td{
   border: 1px solid #0c0a0a;
